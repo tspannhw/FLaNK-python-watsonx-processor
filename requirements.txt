@@ -1,0 +1,3 @@
+# IBM WatsonX AI requirements
+ibm-watsonxdata
+ibm_watson_machine_learning
